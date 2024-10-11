@@ -8,5 +8,5 @@
  Lista de ativividades:
  - tividade 1
  - Atividade 2
- [SUAP] (https://suap.ifce.edu.br/)
+ - [SUAP](https://suap.ifce.edu.br/)
  
